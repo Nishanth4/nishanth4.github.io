@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Tortured Object
-categories: [HTML,Code]
+categories: [Code, Software Engineering]
 ---
 
 As I was learning about design patterns and antipatterns I came across an antipattern which I haven’t seen online. So, I decided to write about it so others can learn more about it: the tortured object. The tortured object is an antipattern that involves a failing design pattern in which a factory pattern can be implemented to simplify the problem. 
