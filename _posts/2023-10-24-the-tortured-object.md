@@ -114,3 +114,4 @@ In this example you can see that creating different types of airline clients is 
 
 So in conclusion, if you can recognize the tortured object antipattern you can use the factory design pattern to help simplify your code. Using the different object-oriented principles and software engineering principles you can improve the quality, scalability, and the maintainability of your code. I hope you took something away from this!
 
+<em>Special thanks to Chris Johnston for the Sandy Metz lecture recommendation and to all who reviewed this post!</em>
